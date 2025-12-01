@@ -1,0 +1,36 @@
+body{
+  padding-top:60px;
+  font-family: inter;
+  font-weight: 600;
+  margin:0px;
+  margin-left:1em;
+  margin-right: 1em;
+  padding-bottom: 20em;
+}
+
+h1 {
+  font-family: inter;
+  font-style: bold;
+  font-weight:900;
+}
+
+h2{
+  font-family: inter;
+  font-size: 2em;
+}
+
+p {
+  font-family: inter;
+  font-weight: 600;
+}
+
+button{
+  background-color: transparent;
+  border:none;
+}
+
+a{
+  color:rgb(255, 255, 255);
+  text-decoration: none;
+}
+
